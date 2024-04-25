@@ -2,8 +2,8 @@
 Repository containing the EFI for a HP Z600 Dual CPU workstation
 
 ### Bootloader and macOS version
-OpenCore 0.9.9 Debug (for now)
-macOS Monterey
+* OpenCore 0.9.9 Debug (for now)
+* macOS Monterey
 
 ## Hardware specification
 * CPU - 2x Intel Xeon X5650
